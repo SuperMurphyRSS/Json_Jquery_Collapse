@@ -1,0 +1,34 @@
+{"Employee":
+[
+{"firstname":"Muftau",
+"surname":"Bola",
+"Age":20,
+"Address":
+{
+"StreetName":"Gorgeous Street",
+"BlockNumber":"20 F 55",
+"PostalCode":00001
+}
+},
+{"firstname":"Mikko",
+"surname":"Andrea",
+"Age":40,
+"Address":
+{
+"StreetName":"Gorgeous Street",
+"BlockNumber":"20 F 55",
+"PostalCode":00001
+}
+},
+{"firstname":"Tom",
+"surname":"Kelly",
+"Age":25,
+"Address":
+{
+"StreetName":"Gorgeous Street",
+"BlockNumber":"20 F 55",
+"PostalCode":00001
+}
+}
+]
+}
